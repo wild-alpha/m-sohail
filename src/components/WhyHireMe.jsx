@@ -1,6 +1,6 @@
-export default function About() {
+export default function WhyHireMe() {
   return (
-    <section id="about" className="mx-auto grid max-w-7xl gap-10 px-5 py-20 lg:grid-cols-[.9fr_1fr]">
+    <section id="why-hire-me" className="mx-auto grid max-w-7xl gap-10 px-5 py-20 lg:grid-cols-[.9fr_1fr]">
       <div className="glass relative min-h-[440px] overflow-hidden rounded-3xl p-8">
         <div className="absolute right-10 top-10 h-24 w-24 rotate-12 rounded-3xl border border-purple-400/50 bg-purple-500/20 blur-[1px]" />
         <div className="absolute bottom-8 left-8 h-40 w-40 rounded-full bg-blue-500/20 blur-3xl" />

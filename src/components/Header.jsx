@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 
 const nav = [
   "Home",
-  "About",
+  "Why Hire Me",
   "Results",
   "Case Studies",
   "Projects",
